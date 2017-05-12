@@ -12,7 +12,7 @@ for x in randomicer:
         cpuspil.append(x)
     else:
         player1spil.append(x)
-for x in player1:													#spilin eru sett í annaðhvort
+for x in player1:													
     player1.append(frsl[x])
 for x in cpu:
     cpu.append(frsl[x])
